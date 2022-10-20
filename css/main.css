@@ -5,9 +5,9 @@
     padding: 5rem;
 }
 
-@media screen and (min-width: 700px) {
-    section {
-        background-position: left center ;
+@media screen and (min-width: 750px) {
+    .background-image {
+        background-position: left;
     }
 }
 
